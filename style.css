@@ -1,0 +1,26 @@
+body {
+  background-color: lightgray;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+nav{
+  background-color: white;
+  height: 60px;
+  width: 100%;
+  display:inline-block;
+  text-align: center;
+}
+nav li{
+  color: blue;
+  display: inline-block;
+  padding: 40px;
+  padding: 15px;
+}
+h1{
+  text-align: center;
+font-family: arial;
+text-transform: uppercase;
+}
+img{ border: solid 1px;
+}
